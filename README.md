@@ -1,4 +1,4 @@
-# Solitaire Cipher (Assignment 2) — Java
+# Solitaire Cipher — Java
 
 This version patches `Deck.shuffle()` to use a safe index wrap and rebuild of prev/next pointers.
 
